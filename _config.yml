@@ -10,7 +10,7 @@ title: 面向代码面向君 不负代码不负卿 # ex. I m Chuan
 name: 禅心诡道 # ex. Jekyll
 email: 648370537@qq.com
 location: 点我点我点我 # ex. Nice, France
-location_url: https://laocai.github.com/website.html # ex. Nice, France
+location_url: https://cjy168.github.com/website.html # ex. Nice, France
 company: 每一份教程，我都会亲手敲一遍，如果你学习过程遇到问题，欢迎留言(点我查看技能树)。
 company_url: https://www.processon.com/view/5c89f14ae4b0f88919ad93e1#map
 github_url: https://github.com/cjy168 # ex. https://github.com/Jekyll
@@ -19,7 +19,7 @@ subTitle: 我们熟悉的甲骨文在北京裁员了!而你还不认真学习！
 subTitle_url: https://mp.weixin.qq.com/s/J5IMG0P4PKpUTofCTuZlgA
 description: 而立之年，方知代码才是真爱
 favicon: favicon.png # Image must be in assets/images
-repository: github.com/cjy168/laocai.github.com # ex. Jekyll/Jekyll.github.io
+repository: github.com/cjy168/cjy168.github.com # ex. Jekyll/Jekyll.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
@@ -129,27 +129,27 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-  username: chanxinguidao
+  username: cjy168
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-  owner: chanxinguidao
-  repo: chanxinguidao.github.com
+  owner: cjy168
+  repo: cjy168.github.com
   oauth:
-    client_id: d67652d2c49c7958abb4
+    client_id: 9eee94b8c162ce611b48
     client_secret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
 # https://github.com/gitalk/gitalk#install
 gitalk:
-  owner: chanxinguidao
-  repo: chanxinguidao.github.com
-  clientID: d67652d2c49c7958abb4
-  clientSecret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
+  owner: cjy168
+  repo: cjy168.github.com
+  clientID: 9eee94b8c162ce611b48
+  clientSecret: 80271fe999c29b0b46e01633f3c572e3f3213cb8
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 comments:
   gitalk: true
   gitalk_clientID: d67652d2c49c7958abb4
-  gitalk_Secret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
-  gitalk_repo: chanxinguidao.github.com
-  gitalk_owner: chanxinguidao
-  gitalk_admin: chanxinguidao
+  gitalk_Secret: 80271fe999c29b0b46e01633f3c572e3f3213cb8
+  gitalk_repo: cjy168.github.com
+  gitalk_owner: cjy168
+  gitalk_admin: cjy168
   distractionFreeMode: true
