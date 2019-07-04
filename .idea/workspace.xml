@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bb5dcfeb-38a6-4f3e-8831-0a069f276fb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/数据类型.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="700">
               <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
             </state>
           </provider>
@@ -31,9 +32,6 @@
             <state split_layout="SPLIT">
               <first_editor>
                 <caret selection-end-line="6" selection-end-column="3" />
-                <folding>
-                  <element signature="e#0#976#0" expanded="true" />
-                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -44,11 +42,23 @@
         <entry file="file://$PROJECT_DIR$/_posts/数据类型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="56">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="76">
+                <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
                 <folding>
                   <element signature="e#0#164#0" expanded="true" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-AI写代码插件.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret selection-end-line="6" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -104,7 +114,7 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_posts" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/_posts" value="master" />
@@ -177,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -207,7 +217,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -259,6 +269,7 @@
       <workItem from="1559047255328" duration="1652000" />
       <workItem from="1559090925189" duration="1157000" />
       <workItem from="1562204294507" duration="3137000" />
+      <workItem from="1562230435752" duration="11000" />
     </task>
     <task id="LOCAL-00025" summary="更改导航条">
       <created>1558605022382</created>
@@ -607,13 +618,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57663000" />
+    <option name="totallyTimeSpent" value="57735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30428955" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.308311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -628,7 +638,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.73796034" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.73796034" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -681,8 +691,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/_posts" />
+    </ignored-roots>
     <MESSAGE value="111" />
     <MESSAGE value="扫盲" />
     <MESSAGE value="SpringCloud教程第1篇：Eureka" />
@@ -712,7 +739,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/5.png" />
     <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/7.png" />
     <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/1.png" />
     <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/2.png" />
@@ -762,7 +788,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-28-Jenkins教程第0篇：小试牛刀.md" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="700">
           <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
@@ -772,9 +798,16 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret selection-end-line="6" selection-end-column="3" />
-            <folding>
-              <element signature="e#0#976#0" expanded="true" />
-            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-AI写代码插件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="6" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -783,8 +816,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/数据类型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="56">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="76">
+            <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             <folding>
               <element signature="e#0#164#0" expanded="true" />
             </folding>
