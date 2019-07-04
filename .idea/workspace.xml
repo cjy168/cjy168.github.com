@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bb5dcfeb-38a6-4f3e-8831-0a069f276fb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/数据类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-04-数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-04-数据类型.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,40 +12,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-2--Java8-Stream-API-概述.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="6" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/数据类型.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-07-04-数据类型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="76">
-                <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <first_editor relative-caret-position="6770">
+                <caret line="264" lean-forward="true" selection-start-line="264" selection-end-line="264" />
                 <folding>
                   <element signature="e#0#164#0" expanded="true" />
+                  <element signature="e#0#334#0" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -54,11 +33,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-SpringCloud教程第7篇：Sleuth.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-SpringCloud教程第0篇番外篇：概念篇.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-5--Java8-新时间-API.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="43">
+                <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-336">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-AI写代码插件.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="6" selection-end-column="3" />
+              <first_editor relative-caret-position="308">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -197,6 +222,16 @@
             <path>
               <item name="laocaiBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="laocaiBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laocaiBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laocaiBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laocaiBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laocaiBlog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -220,15 +255,15 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images\springcloud\chapter2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\laocaiBlog\_posts" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images\typora" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\files" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\_includes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images\springcloud\chapter2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,21 +304,7 @@
       <workItem from="1559047255328" duration="1652000" />
       <workItem from="1559090925189" duration="1157000" />
       <workItem from="1562204294507" duration="3137000" />
-      <workItem from="1562230435752" duration="11000" />
-    </task>
-    <task id="LOCAL-00025" summary="更改导航条">
-      <created>1558605022382</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1558605022382</updated>
-    </task>
-    <task id="LOCAL-00026" summary="更改导航条">
-      <created>1558605248425</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1558605248425</updated>
+      <workItem from="1562230435752" duration="2392000" />
     </task>
     <task id="LOCAL-00027" summary="更改导航条">
       <created>1558605551409</created>
@@ -614,14 +635,29 @@
       <option name="project" value="LOCAL" />
       <updated>1562229419227</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="fixup! 基本数据类型">
+      <created>1562230487430</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1562230487431</updated>
+    </task>
+    <task id="LOCAL-00075" summary="fixup! 基本数据类型">
+      <created>1562236428115</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1562236428115</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57735000" />
+    <option name="totallyTimeSpent" value="60116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.308311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -638,7 +674,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.73796034" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.73796034" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -739,57 +775,190 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/7.png" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/1.png" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/2.png" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/4.png" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/6.png" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-20-SpringCloud教程第1篇：Eureka.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-Docker入门.md" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter2/3.png" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-24-SpringCloud教程第1篇：Eureka.md" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springboot/chapter1/1.png" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springboot/chapter1/2.png" />
-    <entry file="file://$PROJECT_DIR$/bower_components/octicons/octicons/octicons.css" />
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock" />
-    <entry file="file://$PROJECT_DIR$/bookmark.md" />
-    <entry file="file://$PROJECT_DIR$/bower.json" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter4/2.png" />
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud/chapter4/1.png" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/bower_components/hover/css/hover.css" />
     <entry file="file://$PROJECT_DIR$/bower_components/hover/css/hover-min.css" />
     <entry file="file://$PROJECT_DIR$/website.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第4篇：Hystrix.md" />
     <entry file="file://$PROJECT_DIR$/spring-boot.md" />
     <entry file="file://$PROJECT_DIR$/java-thread.md" />
     <entry file="file://$PROJECT_DIR$/java-base.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-Docker教程番外篇之springboot打包docker镜像.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-Spring Boot教程第1篇：构建springboot工程.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-19-SpringCloud教程第1篇：Eureka.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-19-SpringCloud教程第0篇：基本概念.md" />
-    <entry file="file://$PROJECT_DIR$/about.md" />
     <entry file="file://$PROJECT_DIR$/_includes/about.html" />
     <entry file="file://$PROJECT_DIR$/docker.md" />
     <entry file="file://$PROJECT_DIR$/FreeMarker.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-18-Spring Boot教程第0篇：入门集锦.md" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/_includes/header.html" />
     <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/archives.md" />
     <entry file="file://$PROJECT_DIR$/_includes/jumbotron.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-Docker教程第0篇： 我要入门.md" />
     <entry file="file://$PROJECT_DIR$/spring-cloud.md" />
     <entry file="file://$PROJECT_DIR$/_includes/spring-cloud.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-SpringCloud教程第2篇：Ribbon.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第3篇：feign.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第5篇：Zuul.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第6篇：config.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-28-Jenkins教程第0篇：小试牛刀.md" />
+    <entry file="file://$PROJECT_DIR$/_includes/java-base.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archives.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state relative-caret-position="369">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3192" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-02-Docker教程第0篇： 我要入门.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="28">
+            <caret line="1" column="6" selection-start-line="1" selection-end-line="1" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-11-Markdown 教程第0篇： 这玩意是啥.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-18-Spring Boot教程第0篇：入门集锦.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-19-SpringCloud教程第1篇：Eureka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-Docker教程番外篇之springboot打包docker镜像.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-Spring Boot教程第1篇：构建springboot工程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第3篇：feign.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第4篇：Hystrix.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第6篇：config.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-30-GitHub博客搭建.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="4" column="18" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-01-前端之VUE第0篇：新手入门.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-0-Java8-简介.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-1--Java8-Lambda-表达式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -803,23 +972,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-3--Java8-Stream-操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-07-AI写代码插件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="6" selection-end-column="3" />
+          <first_editor relative-caret-position="308">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/数据类型.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-SpringCloud教程第7篇：Sleuth.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-SpringCloud教程第0篇番外篇：概念篇.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-02-5--Java8-新时间-API.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="43">
+            <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-04-数据类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="6770">
+            <caret line="264" lean-forward="true" selection-start-line="264" selection-end-line="264" />
             <folding>
               <element signature="e#0#164#0" expanded="true" />
+              <element signature="e#0#334#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
