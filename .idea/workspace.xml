@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5dcfeb-38a6-4f3e-8831-0a069f276fb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/数据类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/数据类型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="196">
+              <first_editor relative-caret-position="56">
                 <caret line="7" selection-start-line="7" selection-end-line="7" />
                 <folding>
                   <element signature="e#0#164#0" expanded="true" />
@@ -105,6 +105,12 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_posts" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/_posts" value="master" />
+      </map>
+    </option>
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
     <option name="RESET_MODE" value="MIXED" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
@@ -252,14 +258,7 @@
       <workItem from="1559041630113" duration="899000" />
       <workItem from="1559047255328" duration="1652000" />
       <workItem from="1559090925189" duration="1157000" />
-      <workItem from="1562204294507" duration="2893000" />
-    </task>
-    <task id="LOCAL-00024" summary="更改导航条">
-      <created>1558604905259</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1558604905259</updated>
+      <workItem from="1562204294507" duration="3137000" />
     </task>
     <task id="LOCAL-00025" summary="更改导航条">
       <created>1558605022382</created>
@@ -597,11 +596,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562229205137</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="fixup! 基本数据类型">
+      <created>1562229419227</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1562229419227</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57419000" />
+    <option name="totallyTimeSpent" value="57663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -622,7 +628,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.73796034" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.73796034" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -777,7 +783,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/数据类型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="196">
+          <first_editor relative-caret-position="56">
             <caret line="7" selection-start-line="7" selection-end-line="7" />
             <folding>
               <element signature="e#0#164#0" expanded="true" />
