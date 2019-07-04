@@ -24,7 +24,7 @@ repository: github.com/cjy168/cjy168.github.com # ex. Jekyll/Jekyll.github.io
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://Jekyll.github.io
-url: https://laocai.github.io
+url: https://cjy168.github.io
 
 ## Gem
 gems:
